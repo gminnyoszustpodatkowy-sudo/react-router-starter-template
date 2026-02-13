@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Local Music Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="select_song">Wybierz utwór z listy</string>
+    <string name="permission_needed">Aplikacja potrzebuje dostępu do muzyki na urządzeniu.</string>
+</resources>
