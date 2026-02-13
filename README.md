@@ -107,3 +107,11 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+## Additional Guides
+
+- [Roadmap (PL): Android app for local music playback](docs/android-music-app-roadmap-pl.md)
+
+## Android Example
+
+Need an Android APK music player? See [`android-local-music-player/`](android-local-music-player/README.md) for a runnable native Android app scaffold.
+
